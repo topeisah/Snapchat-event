@@ -1,0 +1,14 @@
+
+.home{
+    background: linear-gradient( #F6F2FF,#FBFAFF);
+}
+
+.home h2{
+    color: #240D57;
+}
+
+.home button{
+    color: #fff;
+    background: linear-gradient(#8456EC,#E87BF8);
+    border-radius: 10px;
+}
